@@ -13,15 +13,15 @@ DURATION_LIMIT = int(getenv("DURATION_LIMIT", "90"))
 
 OWNER_ID = int(getenv("OWNER_ID"))
 
-PING_IMG = getenv("PING_IMG", "https://images.app.goo.gl/czQH55rn8y2Jk4is5")
-START_IMG = getenv("START_IMG", "https://images.app.goo.gl/hvRp5UsR8j3z2wcB9")
+PING_IMG = getenv("PING_IMG", "https://images.app.goo.gl/LbhfP48RAK1mHKvn7")
+START_IMG = getenv("START_IMG", "https://images.app.goo.gl/azovyQQZ44g2s5TW8")
 
 SESSION = getenv("SESSION", None)
 
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/HasbullaMMC")
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/KrayzenSupport")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/riyaddSupport")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/AyselProje")
 
 SUDO_USERS = list(map(int, getenv("SUDO_USERS", "5519651365").split()))
 
 
-FAILED = "https://images.app.goo.gl/czQH55rn8y2Jk4is5"
+FAILED = "https://images.app.goo.gl/fwY1U1FQh9Qna55s8"
