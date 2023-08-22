@@ -8,10 +8,10 @@ load_dotenv()
 API_ID = int(getenv("16102648"))
 API_HASH = getenv("378a73e340eb634cf67c8c42bafa9f37")
 
-BOT_TOKEN = getenv("BOT_TOKEN", None)
+BOT_TOKEN = getenv("BOT_TOKEN", 6144849731:AAGCFecE_S1i3BYB5wEtnPMZs70ypB53WGo)
 DURATION_LIMIT = int(getenv("DURATION_LIMIT", "90"))
 
-OWNER_ID = int(getenv("OWNER_ID"))
+OWNER_ID = int(getenv("6181182367"))
 
 PING_IMG = getenv("PING_IMG", "https://images.app.goo.gl/LbhfP48RAK1mHKvn7")
 START_IMG = getenv("START_IMG", "https://images.app.goo.gl/azovyQQZ44g2s5TW8")
