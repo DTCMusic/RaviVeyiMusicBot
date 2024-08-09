@@ -16,7 +16,7 @@ OWNER_ID = int(getenv("6634423600"))
 PING_IMG = getenv("PING_IMG", "https://images.app.goo.gl/LbhfP48RAK1mHKvn7")
 START_IMG = getenv("START_IMG", "https://images.app.goo.gl/azovyQQZ44g2s5TW8")
 
-SESSION = getenv("SESSION", AgBBAwGPjEkCV-WUNsXHJQfv_SeroXM9zXbdhVrfqnqDRVYN5RbZY6zvgmafx7908wpKv8j-EIyF1B0YXMzcJVn7yn57g15PtDu3q8scfCCXzwyqCJZs2NEZnzjm0HmVvQKau92TLH_i-ueN6PvqlGFEcMrNOhyosaohie52pmLFBQpsy0ihjdoMbjFqBRuy6LJ9u2AjRy6KkaphKXedBJGHTbrADUZA1PFB8qJ3govOpRBsJxSETTDXUok1QwKFgV4wQ4_yN61kzObHUYxUfFoDfeE0zvYTTvi5NmS_ptUPubYJibfFHWVJFzuMMH4EYJjgs2uW-IepGP2ujEboTRd4AAAAAUiRuNYA)
+SESSION = getenv("SESSION", AgG2-QIAHwh9cL2kectPPgIU57z0vHpYWQFSlq-CsO_DBbrrnuZ6MM_zH7d7mEU5qFzNpFcZyT3NT0Zy4lcG8uI63iUyqKdMmSe3_I8b7Yv4MeLJs_-ZMJW-xNS9f0QZioe8nruwqEWiFm80tb3JY9q9UVWQwFfkvxZYvMD6Twgj5vq5z3VPxPqSQ-WwchUSkiAcUN2rtkZuYimeOT-KCdqAWv22AdKw2eVHunFshMEgjBHtAgFvLhhhUaTr-VUB8u0wSMmjqEh848xR0YIbpdpMdY9TQIM91_h_SUkgVwLahlWg86JP4LupFckgVSI2x0U4Oc9S5ERz3kbOZ9EKFM8KpZwQAAAAF2FQicAA)
 
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/riyaddSupport")
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/AyselProje")
