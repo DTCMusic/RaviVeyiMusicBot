@@ -5,10 +5,10 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-API_ID = int(getenv("28768514"))
-API_HASH = getenv("40761fd256d71926ac455e55fcb71ae1")
+API_ID = int(getenv("24548143"))
+API_HASH = getenv("6cba049c135a0393615878ea1e3c9443")
 
-BOT_TOKEN = getenv("BOT_TOKEN", 7047765713:AAE_2l_YhoK7Qq_HNBa97wfULydSi_pO_UU))
+BOT_TOKEN = getenv("BOT_TOKEN", "")
 DURATION_LIMIT = int(getenv("DURATION_LIMIT", "90"))
 
 OWNER_ID = int(getenv("6634423600"))
@@ -21,7 +21,7 @@ SESSION = getenv("SESSION", AgG2-QIAHwh9cL2kectPPgIU57z0vHpYWQFSlq-CsO_DBbrrnuZ6
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/riyaddSupport")
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/AyselProje")
 
-SUDO_USERS = list(map(int, getenv("SUDO_USERS", "5519651365").split()))
+SUDO_USERS = list(map(int, getenv("SUDO_USERS", "6634423600").split()))
 
 
 FAILED = "https://images.app.goo.gl/fwY1U1FQh9Qna55s8"
